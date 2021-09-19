@@ -4,6 +4,7 @@ console.log(Number.MIN_SAFE_INTEGER)
 
 // Exercise 2: why does this throw an error? How can you fix it?
 3 + 4 + 1n
+3n + 4n + 1n
 
 // Exercise 3: Clean up this code using optional chaining
 let will_pokemon = {
